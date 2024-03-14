@@ -1,0 +1,97 @@
+.navimg{
+    margin-left: -50px!important;
+    display: inline-block!important;
+    flex-wrap: wrap!important;
+}
+.nav-link{
+    padding: 15px!important;
+    color: blue!important;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: black;
+}
+.PPP{
+    border: none!important;
+    background-color: white!important;
+}
+.ssp{
+    background-color: #0321a4 !important;
+}
+.col-sm-12{
+    background-color: silver!important;
+}
+.container{
+    width: 100% !important;
+    margin-top: 10px!important;
+}
+.sec{
+    margin: 0 auto!important;
+    width: 1400px!important;
+    height: 600px!important;
+    background-color: silver!important;
+}
+.dvimg{
+    display: inline-block!important;
+    flex-wrap: wrap!important;
+    margin-top: 50px!important;
+    margin-left: 230px!important;
+}
+.navbar-nav{
+    margin-left: -1px!important;
+}
+.dv{
+    margin-top: -10px!important;
+    display: inline-block!important;
+    flex-wrap: wrap!important;
+    margin-left: 40px!important;
+}
+.bt{
+    margin-top: -40px!important;
+    margin-left: 380px!important;
+}
+.crd{
+    margin-top: -120px!important;
+    margin-left: 980px!important;
+    border: none!important;
+    background-color: greenyellow;
+    width: 350px!important;
+    height: 150px!important;
+}
+.mg{
+    margin-top: 50px!important;
+    margin-left: 220px!important;
+}
+.crd1{
+    margin-left: 130px!important;
+    width:400px!important;
+    height: 200px!important;
+    background-color: white;!important;
+}
+.bmw{
+    margin-left: 380px!important;
+    margin-top: -50px!important;
+    background-color: white!important;
+    color: black!important;
+}
+.crd2{
+    margin-top: -200px!important;
+    margin-left: 550px!important;
+    width:400px!important;
+    height: 200px!important;
+    background-color: white;!important;
+}
+.mers{
+    width:350px!important;
+    height: 200px!important;
+    margin-top: -220px!important;
+    margin-left: 970px!important;
+    background-color: white!important;
+    color: black!important;
+}
+@media only screen and (max-width: 430px){
+    .sec{
+        width: 430px!important;
+        height: auto!important;
+    }
+}
